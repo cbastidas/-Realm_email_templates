@@ -1,1 +1,52 @@
-edit
+<table class="email-wrapper" style="width: 100%; margin: 0; padding: 0; background-color: #f2f4f6;" width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center">
+<table class="email-content" style="width: 100%; margin: 0; padding: 0;" width="100%" cellpadding="0" cellspacing="0"><!-- Logo Section with Purple Background -->
+<tbody>
+<tr>
+<td class="email-masthead" style="padding: 25px 0; text-align: center; background-color: #6f42c1;"><a style="font-size: 16px; font-weight: bold; color: #ffffff; text-decoration: none;" href="https://secure.neataffiliates.com"> <img style="max-width: 200px;" src="https://thrnaffpanel.thrnaffcdn.com/templates/default/images/sitelogo.png" alt="NeatAffiliates Logo" border="0"> </a></td>
+</tr>
+<!-- Email Body -->
+<tr>
+<td class="email-body" style="width: 100%; margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px solid #EDEFF2; background-color: #ffffff;" width="100%">
+<table align="center" class="email-body_inner" style="width: 570px; margin: 0 auto; padding: 0;" width="570" cellpadding="0" cellspacing="0"><!-- Body content -->
+<tbody>
+<tr>
+<td class="content-cell" style="padding: 35px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #333333;"><!-- Greeting -->
+<p style="font-size: 16px; color: #333333; margin-bottom: 20px;">Dear %col:username%%,</p>
+<!-- Main Message -->
+<p style="font-size: 16px; color: #333333; margin-bottom: 20px;">Your email for your affiliate account has been successfully verified.</p>
+<!-- Help Message -->
+<p style="font-size: 16px; color: #333333; margin-bottom: 20px;">If you believe you need assistance or more information, please do not hesitate to contact us by clicking the button below.</p>
+<!-- Contact Us Button -->
+<p style="text-align: center; margin: 20px 0;"><a style="display: inline-block; padding: 10px 20px; color: #ffffff; background-color: #3fbd87; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;" href="https://secure.neataffiliates.com/contact"> Contact Us </a></p>
+<br><!-- Closing -->
+<p style="font-size: 16px; color: #333333; margin-bottom: 20px;">Best regards,</p>
+<p style="font-size: 16px; color: #6f42c1; font-weight: bold; margin-bottom: 0;">The NeatAffiliates Team</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Footer -->
+<tr>
+<td>
+<table class="email-footer" style="width: 570px; margin: 0 auto; padding: 0; background-color: #6f42c1;" width="570" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="content-cell" style="padding: 35px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align: center; color: #ffffff;"><!-- Unsubscribe Link -->
+<p class="sub" style="font-size: 12px; margin: 0;">If you no longer wish to receive these emails, you may <a style="color: #ffffff; text-decoration: underline;" href="https://secure.neataffiliates.com/email-unsubscribe.php">unsubscribe</a> here.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
